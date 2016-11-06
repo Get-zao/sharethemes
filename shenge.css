@@ -1,0 +1,415 @@
+@media screen and (min-width: 1200px) {
+  .container-fluid, .container {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-sizing: border-box;
+    overflow: hidden; }
+    .container-fluid > .row, .container > .row {
+      height: auto;
+      overflow: hidden;
+      box-sizing: border-box;
+      margin-left: -15px;
+      margin-right: -15px; }
+      .container-fluid > .row > .col-lg-1, .container > .row > .col-lg-1 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 8.33333%; }
+      .container-fluid > .row > .col-lg-2, .container > .row > .col-lg-2 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 16.66667%; }
+      .container-fluid > .row > .col-lg-3, .container > .row > .col-lg-3 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 25%; }
+      .container-fluid > .row > .col-lg-4, .container > .row > .col-lg-4 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 33.33333%; }
+      .container-fluid > .row > .col-lg-5, .container > .row > .col-lg-5 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 41.66667%; }
+      .container-fluid > .row > .col-lg-6, .container > .row > .col-lg-6 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 50%; }
+      .container-fluid > .row > .col-lg-7, .container > .row > .col-lg-7 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 58.33333%; }
+      .container-fluid > .row > .col-lg-8, .container > .row > .col-lg-8 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 66.66667%; }
+      .container-fluid > .row > .col-lg-9, .container > .row > .col-lg-9 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 75%; }
+      .container-fluid > .row > .col-lg-10, .container > .row > .col-lg-10 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 83.33333%; }
+      .container-fluid > .row > .col-lg-11, .container > .row > .col-lg-11 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 91.66667%; }
+      .container-fluid > .row > .col-lg-12, .container > .row > .col-lg-12 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 100%; }
+      .container-fluid > .row > .hidden-lg, .container > .row > .hidden-lg {
+        display: none; }
+    .container-fluid .container-fluid, .container .container-fluid {
+      width: 100%; } }
+
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+  .container-fluid, .container {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-sizing: border-box;
+    overflow: hidden; }
+    .container-fluid > .row, .container > .row {
+      height: auto;
+      overflow: hidden;
+      box-sizing: border-box;
+      margin-left: -15px;
+      margin-right: -15px; }
+      .container-fluid > .row > .col-md-1, .container > .row > .col-md-1 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 8.33333%; }
+      .container-fluid > .row > .col-md-2, .container > .row > .col-md-2 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 16.66667%; }
+      .container-fluid > .row > .col-md-3, .container > .row > .col-md-3 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 25%; }
+      .container-fluid > .row > .col-md-4, .container > .row > .col-md-4 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 33.33333%; }
+      .container-fluid > .row > .col-md-5, .container > .row > .col-md-5 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 41.66667%; }
+      .container-fluid > .row > .col-md-6, .container > .row > .col-md-6 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 50%; }
+      .container-fluid > .row > .col-md-7, .container > .row > .col-md-7 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 58.33333%; }
+      .container-fluid > .row > .col-md-8, .container > .row > .col-md-8 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 66.66667%; }
+      .container-fluid > .row > .col-md-9, .container > .row > .col-md-9 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 75%; }
+      .container-fluid > .row > .col-md-10, .container > .row > .col-md-10 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 83.33333%; }
+      .container-fluid > .row > .col-md-11, .container > .row > .col-md-11 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 91.66667%; }
+      .container-fluid > .row > .col-md-12, .container > .row > .col-md-12 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 100%; }
+      .container-fluid > .row > .hidden-md, .container > .row > .hidden-md {
+        display: none; }
+    .container-fluid .container-fluid, .container .container-fluid {
+      width: 100%; } }
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  .container-fluid, .container {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-sizing: border-box;
+    overflow: hidden; }
+    .container-fluid > .row, .container > .row {
+      height: auto;
+      overflow: hidden;
+      box-sizing: border-box;
+      margin-left: -15px;
+      margin-right: -15px; }
+      .container-fluid > .row > .col-sm-1, .container > .row > .col-sm-1 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 8.33333%; }
+      .container-fluid > .row > .col-sm-2, .container > .row > .col-sm-2 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 16.66667%; }
+      .container-fluid > .row > .col-sm-3, .container > .row > .col-sm-3 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 25%; }
+      .container-fluid > .row > .col-sm-4, .container > .row > .col-sm-4 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 33.33333%; }
+      .container-fluid > .row > .col-sm-5, .container > .row > .col-sm-5 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 41.66667%; }
+      .container-fluid > .row > .col-sm-6, .container > .row > .col-sm-6 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 50%; }
+      .container-fluid > .row > .col-sm-7, .container > .row > .col-sm-7 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 58.33333%; }
+      .container-fluid > .row > .col-sm-8, .container > .row > .col-sm-8 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 66.66667%; }
+      .container-fluid > .row > .col-sm-9, .container > .row > .col-sm-9 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 75%; }
+      .container-fluid > .row > .col-sm-10, .container > .row > .col-sm-10 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 83.33333%; }
+      .container-fluid > .row > .col-sm-11, .container > .row > .col-sm-11 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 91.66667%; }
+      .container-fluid > .row > .col-sm-12, .container > .row > .col-sm-12 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 100%; }
+      .container-fluid > .row > .hidden-sm, .container > .row > .hidden-sm {
+        display: none; }
+    .container-fluid .container-fluid, .container .container-fluid {
+      width: 100%; } }
+
+@media screen and (max-width: 768px) {
+  .container-fluid, .container {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-sizing: border-box;
+    overflow: hidden; }
+    .container-fluid > .row, .container > .row {
+      height: auto;
+      overflow: hidden;
+      box-sizing: border-box;
+      margin-left: -15px;
+      margin-right: -15px; }
+      .container-fluid > .row > .col-xs-1, .container > .row > .col-xs-1 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 8.33333%; }
+      .container-fluid > .row > .col-xs-2, .container > .row > .col-xs-2 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 16.66667%; }
+      .container-fluid > .row > .col-xs-3, .container > .row > .col-xs-3 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 25%; }
+      .container-fluid > .row > .col-xs-4, .container > .row > .col-xs-4 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 33.33333%; }
+      .container-fluid > .row > .col-xs-5, .container > .row > .col-xs-5 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 41.66667%; }
+      .container-fluid > .row > .col-xs-6, .container > .row > .col-xs-6 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 50%; }
+      .container-fluid > .row > .col-xs-7, .container > .row > .col-xs-7 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 58.33333%; }
+      .container-fluid > .row > .col-xs-8, .container > .row > .col-xs-8 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 66.66667%; }
+      .container-fluid > .row > .col-xs-9, .container > .row > .col-xs-9 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 75%; }
+      .container-fluid > .row > .col-xs-10, .container > .row > .col-xs-10 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 83.33333%; }
+      .container-fluid > .row > .col-xs-11, .container > .row > .col-xs-11 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 91.66667%; }
+      .container-fluid > .row > .col-xs-12, .container > .row > .col-xs-12 {
+        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 100%; }
+      .container-fluid > .row > .hidden-xs, .container > .row > .hidden-xs {
+        display: none; }
+    .container-fluid .container-fluid, .container .container-fluid {
+      width: 100%; } }
